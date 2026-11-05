@@ -16,6 +16,7 @@ public class exercicio03{
                 if (codigo[i] == (codigoEscolhido)) {
                     encontrado = true;
                     System.out.println(preco[i]);
+
                     break;
                 }
             }if(encontrado==false){
