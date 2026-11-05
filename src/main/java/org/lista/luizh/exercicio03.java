@@ -17,6 +17,7 @@ public class exercicio03{
                     encontrado = true;
                     System.out.println(preco[i]);
 
+
                     break;
                 }
             }if(encontrado==false){
